@@ -81,6 +81,47 @@ The threat landscape never sleeps! I am a regular participant in **Blue Team CTF
 
 ---
 
+<div align="center">
+
+  <!-- Premium Skill Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Security_Analyst-000000?style=for-the-badge&logo=security&logoColor=38bdf8" alt="Security Analyst" />
+    <img src="https://img.shields.io/badge/Ethical_Hacker-000000?style=for-the-badge&logo=hackthebox&logoColor=38bdf8" alt="Ethical Hacker" />
+    <img src="https://img.shields.io/badge/Penetration_Testing-000000?style=for-the-badge&logo=kali-linux&logoColor=38bdf8" alt="Pentester" />
+  </p>
+
+  <br>
+
+  <!-- Modern Card Layout Grid -->
+  <table align="center" style="border-collapse: collapse; border: none; background: transparent;">
+    <tr style="border: none;">
+      <!-- Stats Card -->
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=awais1-cybersec&show_icons=true&bg_color=00000000&title_color=f8fafc&icon_color=38bdf8&text_color=94a3b8&border_color=1e293b&border_radius=10" alt="GitHub Stats" />
+      </td>
+      <!-- Top Languages Card -->
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais1-cybersec&layout=compact&bg_color=00000000&title_color=f8fafc&text_color=94a3b8&border_color=1e293b&border_radius=10" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Full-Width Streak Analytics Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awais1-cybersec&background=00000000&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=f8fafc&currStreakLabel=94a3b8&sideNums=f8fafc&sideLabels=94a3b8&dates=94a3b8&border_radius=10&border=1e293b" alt="GitHub Streak" />
+
+  <br><br><br>
+
+  <!-- 🏆 ELITE ISOMETRIC CONTRIBUTIONS SKYLINE 🏆 -->
+  <div align="left" style="max-width: 860px; margin: auto;">
+    <h4 style="color: #94a3b8; font-family: monospace; margin-left: 20px;">>_ VISUALIZING_ELITE_CONTRIBUTION_SKYLINE</h4>
+  </div>
+  <!-- Yeh link automatically generated file ko point karega -->
+  <img width="860" src="https://github.com/awais1-cybersec/awais1-cybersec/raw/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Elite 3D Contributions Skyline" />
+
+</div>
+
+---
+
 ## 🤝 Let's Connect!
 
 > [!CAUTION]

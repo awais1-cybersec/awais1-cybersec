@@ -19,12 +19,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4 
       
+      # NAYA STEP: JSON custom theme file create karne ke liye
+      - name: Create Custom Theme File
+        run: |
+          echo '{"color": ["#1e293b", "#38bdf8", "#0ea5e9", "#0284c7", "#0369a1"], "backgroundColor": "#0d1117", "foregroundColor": "#94a3b8"}' > custom-theme.json
+      
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: awais1-cybersec
-          # JSON ko single line mein kar diya gaya hai taake parsing error na aaye
-          SETTING_JSON: '{"color": ["#1e293b", "#38bdf8", "#0ea5e9", "#0284c7", "#0369a1"], "backgroundColor": "#0d1117", "foregroundColor": "#94a3b8"}'
+          # Ab hum action ko us file ka naam de rahe hain jo upar create hui hai
+          SETTING_JSON: "custom-theme.json"
             
       - name: Commit & Push changes
         run: |

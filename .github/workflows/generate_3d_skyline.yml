@@ -9,8 +9,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    
+    # YEH BLOCK ADD KARNA ZAROORI HAI PUSH KARNE KE LIYE
+    permissions:
+      contents: write 
+
     steps:
       - uses: actions/checkout@v3
+      
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -22,6 +28,7 @@ jobs:
               "backgroundColor": "#0d1117",
               "foregroundColor": "#94a3b8"
             }
+            
       - name: Commit & Push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"

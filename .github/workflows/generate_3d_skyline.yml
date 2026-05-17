@@ -1,11 +1,10 @@
 name: Generate 3D Contribution Skyline
 
 on:
-  schedule: # Har 24 ghantay baad run hoga
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Aap manually bhi run kar saktay hain
+  workflow_dispatch:
 
-# Yeh environment variable Node 20 ki warning ko khatam kar dega
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
 
@@ -14,25 +13,18 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     
-    # Push karne ke liye permissions
     permissions:
       contents: write 
 
     steps:
-      # Isko v3 se v4 kar diya hai
       - uses: actions/checkout@v4 
       
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: awais1-cybersec
-          # Premium Slate & Cyan Theme Settings
-          SETTING_JSON: >
-            {
-              "color": ["#1e293b", "#38bdf8", "#0ea5e9", "#0284c7", "#0369a1"],
-              "backgroundColor": "#0d1117",
-              "foregroundColor": "#94a3b8"
-            }
+          # JSON ko single line mein kar diya gaya hai taake parsing error na aaye
+          SETTING_JSON: '{"color": ["#1e293b", "#38bdf8", "#0ea5e9", "#0284c7", "#0369a1"], "backgroundColor": "#0d1117", "foregroundColor": "#94a3b8"}'
             
       - name: Commit & Push changes
         run: |

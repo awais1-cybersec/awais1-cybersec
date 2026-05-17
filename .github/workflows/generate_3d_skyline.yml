@@ -1,0 +1,31 @@
+name: Generate 3D Contribution Skyline
+
+on:
+  schedule: # Har 24 ghantay baad run hoga
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Aap manually bhi run kar saktay hain
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: awais1-cybersec
+          # Premium Slate & Cyan Theme Settings
+          SETTING_JSON: >
+            {
+              "color": ["#1e293b", "#38bdf8", "#0ea5e9", "#0284c7", "#0369a1"],
+              "backgroundColor": "#0d1117",
+              "foregroundColor": "#94a3b8"
+            }
+      - name: Commit & Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A .
+          git commit -m "Generated 3D Contribution Skyline [skip ci]" || echo "No changes to commit"
+          git push

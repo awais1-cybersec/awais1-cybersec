@@ -134,3 +134,5 @@ Whether you are looking for a dedicated Junior SOC Analyst, want to collaborate 
 <div align="center">
   <h3><i>"In cybersecurity, complacency is the greatest vulnerability. Stay curious, stay secure."</i> 🔐</h3>
 </div>
+
+

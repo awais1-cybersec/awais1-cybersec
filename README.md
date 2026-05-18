@@ -49,8 +49,9 @@ My approach to security is hands-on and colorful. Whether I am experimenting acr
 > **Continuous Validation:** I actively validate my skills through industry-recognized platforms to ensure my knowledge remains sharp.
 
 * 🏅 **Cisco Certified Support Technician (CCST) - Cybersecurity** *(Completed)*
-* 🟢 **TryHackMe SOC Level 1 (SAL1) Pathway** *(Completed)*
+* 🟢 **TryHackMe SOC Level 1 Pathway** *(Completed)*
 * 🔵 **TryHackMe Cyber101 Pathway** *(Completed)*
+* 🟡 **TryHackMe SAL1 Professional** *(On-going)*
 
 ---
 

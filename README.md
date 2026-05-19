@@ -55,7 +55,7 @@ My approach to security is hands-on and colorful. Whether I am experimenting acr
 * 🟡 **TryHackMe SAL1 Professional** *(On-going)*
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 I believe the best way to master cybersecurity is by building and breaking systems. Here is what I've been working on:
@@ -72,7 +72,7 @@ I believe the best way to master cybersecurity is by building and breaking syste
 * **Impact:** Streamlined data preparation for security analytics, showcasing how automation can drastically reduce SOC analyst fatigue.
 
 ---
-
+-->
 ## 🎓 Education
 
 * 🎓 **Bachelor of Science in Cybersecurity** * 🗓️ **Status:** Final Semester *(Expected Graduation: August 2026)* ---
@@ -108,7 +108,7 @@ The threat landscape never sleeps! I am a regular participant in **Blue Team CTF
   </p>
 
   <br><br><br>
-
+<!--
   <div align="left" style="max-width: 860px; margin: auto;">
     <h4 style="color: #94a3b8; font-family: monospace; margin-left: 20px;">>_ VISUALIZING_ELITE_CONTRIBUTION_SKYLINE</h4>
   </div>
@@ -118,7 +118,7 @@ The threat landscape never sleeps! I am a regular participant in **Blue Team CTF
   </p>
 
 </div>
-
+-->
 ---
 
 ## 🤝 Let's Connect!

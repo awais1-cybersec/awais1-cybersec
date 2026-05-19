@@ -17,7 +17,8 @@
 ## 👨‍💻 About Me
 
 > [!NOTE]  
-> **Hello! I'm Muhammad Awais Asgher.** > I am a passionate cybersecurity professional in the final stretch of my **BS in Cybersecurity**, gearing up to launch my career as a **Security Operations Center (SOC) Analyst**. I am driven by the thrill of the hunt—analyzing logs, unraveling complex network anomalies, and building resilient, proactive defenses.
+> **Hello! I'm Muhammad Awais Asgher.**
+> > I am a passionate cybersecurity professional in the final stretch of my **BS in Cybersecurity**, gearing up to launch my career as a **Security Operations Center (SOC) Analyst**. I am driven by the thrill of the hunt—analyzing logs, unraveling complex network anomalies, and building resilient, proactive defenses.
 
 My approach to security is hands-on and colorful. Whether I am experimenting across my multiple-machine homelab setup, writing automation scripts, or diving into the intersection of machine learning and threat intelligence, I believe in learning by doing. I bridge the gap between traditional security monitoring and modern, code-driven defense strategies.
 

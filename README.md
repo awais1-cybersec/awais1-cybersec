@@ -125,10 +125,7 @@ The threat landscape never sleeps! I am a regular participant in **Blue Team CTF
 
 ## 🤝 Let's Connect!
 
-> [!CAUTION]
-> **Warning:** Highly motivated professional looking for impactful collaborations! 
-
-Whether you are looking for a dedicated Junior SOC Analyst, want to collaborate on open-source tools, or just want to chat about threat intelligence—I'd love to hear from you.
+I always welcome to connect and discuss modern defense strategies, threat intelligence, and collaborative security projects. Feel free to reach out if you'd like to connect, share insights, or discuss industry trends.
   
 🔗 **Connect on LinkedIn:** [Awais Asgher](https://www.linkedin.com/in/awais-asgher-4882b8285/)
 

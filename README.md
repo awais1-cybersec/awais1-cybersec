@@ -52,7 +52,7 @@ My approach to security is hands-on and colorful. Whether I am experimenting acr
 * 🏅 **Cisco Certified Support Technician (CCST) - Cybersecurity** *(Completed)*
 * 🟢 **TryHackMe SOC Level 1 Pathway** *(Completed)*
 * 🔵 **TryHackMe Cyber101 Pathway** *(Completed)*
-* 🟡 **TryHackMe SAL1 Professional** *(On-going)*
+* 🟡 **TryHackMe SAL1 Professional** *(Completed)*
 
 ---
 <!--
@@ -116,7 +116,7 @@ The threat landscape never sleeps! I am a regular participant in **Blue Team CTF
   </div>
   
   <p align="center">
-    <img width="860" src="https://raw.githubusercontent.com/awais1-cybersec/awais1-cybersec/main/profile-3d-contrib/profile-customize.svg" alt="Elite 3D Contributions Skyline" />
+    <img width="860" src="https://raw.githubusercontent.com/awais1-cybersec/awais1-cybersec/blob/main/profile-3d-contrib/profile-customize.svg" alt="Elite 3D Contributions Skyline" />
   </p>
 
 </div>

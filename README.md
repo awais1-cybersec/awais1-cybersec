@@ -100,9 +100,9 @@ The threat landscape never sleeps! I am a regular participant in **Blue Team CTF
   <br>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=awais1-cybersec&show_icons=true&bg_color=00000000&title_color=f8fafc&icon_color=38bdf8&text_color=94a3b8&border_color=1e293b&border_radius=10" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=awais1-cybersec&show_icons=true&bg_color=transparent&title_color=f8fafc&icon_color=38bdf8&text_color=94a3b8&border_color=1e293b&border_radius=10" alt="GitHub Stats" />
     &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais1-cybersec&layout=compact&bg_color=00000000&title_color=f8fafc&text_color=94a3b8&border_color=1e293b&border_radius=10" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais1-cybersec&layout=compact&bg_color=transparent&title_color=f8fafc&text_color=94a3b8&border_color=1e293b&border_radius=10" alt="Top Languages" />
   </p>
 
   <p align="center">

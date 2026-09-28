@@ -78,7 +78,7 @@ I believe the best way to master cybersecurity is by building and breaking syste
 * 🎓 **Bachelor of Science in Cybersecurity**
   * 🏛️ **Institution:** Riphah University, Faisalabad
   * 🗓️ **Status:** Graduated
-  * 📊 **CGPA:** 3.0 / 4.0
+  * 📊 **CGPA:** 2.95 / 4.0
 ---
 
 ## 🚩 CTFs & Continuous Growth

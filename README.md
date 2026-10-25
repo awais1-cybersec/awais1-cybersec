@@ -6,7 +6,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awais-asgher-4882b8285/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awais-asgher/) 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/a.w.a.i.s)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awais1-cybersec)
 
@@ -103,7 +103,7 @@ I use **Blue Team CTFs** and simulated investigations to practice evidence colle
 
 I welcome conversations about SOC investigations, defensive-security labs, and entry-level cybersecurity opportunities. Feel free to reach out if you'd like to connect, share insights, or discuss industry trends.
   
-🔗 **Connect on LinkedIn:** [Awais Asgher](https://www.linkedin.com/in/awais-asgher-4882b8285/)
+🔗 **Connect on LinkedIn:** [Awais Asgher](https://www.linkedin.com/in/awais-asgher/)
 
 <br>
 

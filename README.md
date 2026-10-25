@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Muhammad+Awais+Asgher;SOC+Analyst;Securing+the+digital+world.++%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Muhammad+Awais+Asgher;BS+Cybersecurity+Graduate+%7C+Aspiring+SOC+Analyst;Learning+defensive+security+through+hands-on+labs.++%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br>
@@ -18,13 +18,13 @@
 
 > [!NOTE]  
 > **Hello! I'm Muhammad Awais Asgher.**
-> > I am a passionate cybersecurity professional with **BS in Cybersecurity**, specialized in **Security Operations Center (SOC) Analyst** and defensive security. I am driven by the thrill of the hunt—analyzing logs, unraveling complex network anomalies, and building resilient, proactive defenses.
+> > I am a **BS Cybersecurity graduate** seeking an **entry-level SOC or defensive-security role**. My public work includes simulated SOC/DFIR investigations, log and network analysis labs, and an academic anomaly-detection prototype. These are training and academic projects, not claims of production SOC experience.
 
-My approach to security is hands-on and colorful. Whether I am experimenting across my multiple-machine homelab setup, writing automation scripts, or diving into the intersection of machine learning and threat intelligence, I believe in learning by doing. I bridge the gap between traditional security monitoring and modern, code-driven defense strategies.
+I document investigation methods, available evidence, conclusions, and limitations. My current learning priorities are **Windows/Linux telemetry, SIEM alert triage, detection engineering, and concise incident reporting**.
 
 ---
 
-## 🎨 Technical Arsenal
+## 🎨 Hands-on Tools & Learning Areas
 
 <div align="center">
 
@@ -55,24 +55,17 @@ My approach to security is hands-on and colorful. Whether I am experimenting acr
 * 🟡 **TryHackMe SAL1 Professional** *(Completed)*
 
 ---
-<!--
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-I believe the best way to master cybersecurity is by building and breaking systems. Here is what I've been working on:
+These are **training labs and academic/educational projects**, not production SOC engagements.
 
-### ☀️ IoT Solar Inverter Threat Detection (Machine Learning)
-> [!TIP]
-> **Tech Stack:** `Python` 🐍 | `LSTM Autoencoders` 🧠 | `IoT Telemetry` 📡
-* **Overview:** Developed a proactive security solution for critical infrastructure. I built and trained a Long Short-Term Memory (LSTM) machine learning model to ingest and monitor telemetry data from an IoT-based solar inverter.
-* **Impact:** The model effectively establishes a baseline of normal operational activity, automatically generating high-fidelity alerts when anomalous, attack-like behavior is detected.
-
-### 🐍 Automated Log Parsing Scripts
-> **Tech Stack:** `Python` 🐍
-* **Overview:** Created a suite of custom Python scripts to simulate network traffic, parse complex server logs, and extract critical Indicators of Compromise (IOCs).
-* **Impact:** Streamlined data preparation for security analytics, showcasing how automation can drastically reduce SOC analyst fatigue.
+- **[LetsDefend SOC Investigations](https://github.com/awais1-cybersec/LetsDefend)** — simulated alert triage and evidence-based investigation reports.
+- **[TryHackMe SOC/DFIR Portfolio](https://github.com/awais1-cybersec/THM)** — training write-ups on SIEM analysis, Windows artifacts, phishing, and network investigations.
+- **[Solar Shield](https://github.com/awais1-cybersec/solar-shield)** — academic LSTM-autoencoder prototype tested with synthetic solar-inverter telemetry; real-world detection accuracy is not established.
+- **[Password Audit](https://github.com/awais1-cybersec/password-audit)** — educational Python password-checking CLI with documented limitations and tests.
 
 ---
--->
+
 ## 🎓 Education
 
 * 🎓 **Bachelor of Science in Cybersecurity**
@@ -83,7 +76,7 @@ I believe the best way to master cybersecurity is by building and breaking syste
 
 ## 🚩 CTFs & Continuous Growth
 
-The threat landscape never sleeps! I am a regular participant in **Blue Team CTFs** and hands-on simulation platforms. I dedicate time weekly to analyzing real-world CVEs and practicing incident response workflows. I maintain a growth mindset, always looking for the next puzzle to solve or new technology to master. 🧩
+I use **Blue Team CTFs** and simulated investigations to practice evidence collection, timeline reconstruction, MITRE ATT&CK mapping, and defensive recommendations. Reports in the linked repositories distinguish lab findings from production experience.
 
 
 ---
@@ -92,7 +85,7 @@ The threat landscape never sleeps! I am a regular participant in **Blue Team CTF
 <div align="center">
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Security_Analyst-000000?style=for-the-badge&logo=security&logoColor=38bdf8" alt="Security Analyst" />
+    <img src="https://img.shields.io/badge/Entry-Level_SOC_Candidate-000000?style=for-the-badge&logo=security&logoColor=38bdf8" alt="Security Analyst" />
   </p>
 
   <br>
@@ -108,7 +101,7 @@ The threat landscape never sleeps! I am a regular participant in **Blue Team CTF
 
 ## 🤝 Let's Connect!
 
-I always welcome to connect and discuss modern defense strategies, threat intelligence, and collaborative security projects. Feel free to reach out if you'd like to connect, share insights, or discuss industry trends.
+I welcome conversations about SOC investigations, defensive-security labs, and entry-level cybersecurity opportunities. Feel free to reach out if you'd like to connect, share insights, or discuss industry trends.
   
 🔗 **Connect on LinkedIn:** [Awais Asgher](https://www.linkedin.com/in/awais-asgher-4882b8285/)
 

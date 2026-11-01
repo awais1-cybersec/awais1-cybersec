@@ -24,30 +24,19 @@ I document investigation methods, available evidence, conclusions, and limitatio
 
 ---
 
-## 🎨 Hands-on Tools & Learning Areas
+## 🔎 SOC & Defensive-Security Skills
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=43B02A)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-</div>
-
-* 🔴 **Offensive Knowledge:** Basic Penetration Testing Concepts | Understanding attacker mindsets to better defend against them.
-* 🔵 **Blue Team Operations:** SOC Monitoring & Log Analysis | Threat Detection | Incident Response (IR) | SIEM Basics
-* 🟢 **Network Defense:** Network Security Fundamentals | Subnetting | Vulnerability Assessment Concepts
-* 🟡 **Automation & Engineering:** Python Scripting for Task Automation | Applied Machine Learning for Security
+* **SIEM & log analysis:** Splunk and Elastic Stack/Kibana in training investigations.
+* **Network investigation:** Wireshark, Zeek, and Suricata in PCAP and network-log labs.
+* **Endpoint & forensics:** Windows artifact triage, KAPE, Volatility, and Autopsy in training labs.
+* **Scripting & systems:** Python, Bash, and Linux command-line fundamentals.
+* **Academic project:** LSTM-autoencoder anomaly-analysis prototype using simulated solar-inverter telemetry ([Solar Shield](https://github.com/awais1-cybersec/solar-shield)).
 
 ---
 
 ## 🏆 Certifications & Training
 
-> [!IMPORTANT]  
-> **Continuous Validation:** I actively validate my skills through industry-recognized platforms to ensure my knowledge remains sharp.
+> Credentials and completed training are listed below. TryHackMe pathway completion is identified as training, not as a professional certification.
 
 * 🏅 **Cisco Certified Support Technician (CCST) - Cybersecurity** *(Completed)*
 * 🟢 **TryHackMe SOC Level 1 Pathway** *(Completed)*

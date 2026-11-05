@@ -38,10 +38,10 @@ I document investigation methods, available evidence, conclusions, and limitatio
 
 > Credentials and completed training are listed below. TryHackMe pathway completion is identified as training, not as a professional certification.
 
-* 🏅 **Cisco Certified Support Technician (CCST) - Cybersecurity** *(Completed)*
-* 🟢 **TryHackMe SOC Level 1 Pathway** *(Completed)*
-* 🔵 **TryHackMe Cyber101 Pathway** *(Completed)*
-* 🟡 **TryHackMe SAL1 Professional** *(Completed)*
+* 🏅 **Cisco Certified Support Technician (CCST) - Cybersecurity**
+* 🟢 **TryHackMe SOC Level 1 Pathway**
+* 🔵 **TryHackMe Cyber101 Pathway**
+* 🟡 **TryHackMe SAL1 Professional**
 
 ---
 ## 🚀 Featured Work

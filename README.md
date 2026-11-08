@@ -59,8 +59,8 @@ These are **training labs and academic/educational projects**, not production SO
 ## 🎓 Education
 
 * 🎓 **Bachelor of Science in Cybersecurity**
-  * 🏛️ **Institution:** Riphah University, Faisalabad
-  * 🗓️ **Status:** Graduated
+  * 🏛️ **Institution:** Riphah International University, Faisalabad
+  * 🗓️ **Graduated:** July 2026
   * 📊 **CGPA:** 2.95 / 4.0
 ---
 

@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Muhammad+Awais+Asgher;SOC+Analyst+Tier+1;Cloud+Security+Engineer;AI+Defensive+Security.++%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Muhammad+Awais+Asgher;BS+Cybersecurity+Graduate+%7C+Aspiring+SOC+Analyst;Learning+SIEM%2C+DFIR+%26+Detection+Engineering" alt="Typing SVG" />
 </a>
 
 <br>
@@ -34,14 +34,15 @@ I document investigation methods, available evidence, conclusions, and limitatio
 
 ---
 
-## 🏆 Certifications & Training
+## 🏅 Certifications
 
-> Credentials and completed training are listed below. TryHackMe pathway completion is identified as training, not as a professional certification.
+* **Cisco Certified Support Technician (CCST) – Cybersecurity**
+* **TryHackMe SAL1 Professional**
 
-* 🏅 **Cisco Certified Support Technician (CCST) - Cybersecurity**
-* 🟢 **TryHackMe SOC Level 1 Pathway**
-* 🔵 **TryHackMe Cyber101 Pathway**
-* 🟡 **TryHackMe SAL1 Professional**
+## 📚 Training Pathways
+
+* **TryHackMe SOC Level 1 Pathway**
+* **TryHackMe Cyber101 Pathway**
 
 ---
 ## 🚀 Featured Work

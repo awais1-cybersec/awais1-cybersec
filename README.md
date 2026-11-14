@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Muhammad+Awais+Asgher;BS+Cybersecurity+Graduate+%7C+Aspiring+SOC+Analyst;Learning+SIEM%2C+DFIR+%26+Detection+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Muhammad+Awais+Asgher;SOC+Analyst+Tier+1" alt="Typing SVG" />
 </a>
 
 <br>
@@ -18,9 +18,9 @@
 
 > [!NOTE]  
 > **Hello! I'm Muhammad Awais Asgher.**
-> > I am a **BS Cybersecurity graduate** seeking an **entry-level SOC or defensive-security role**. My public work includes simulated SOC/DFIR investigations, log and network analysis labs, and an academic anomaly-detection prototype. These are training and academic projects, not claims of production SOC experience.
+> > I am a **BS Cybersecurity graduate** interested in **SOC or defensive-security roles**. My public work includes simulated SOC/DFIR investigations, log and network analysis labs, and an academic anomaly-detection prototype. These are training and academic projects, not claims of production SOC experience.
 
-I document investigation methods, available evidence, conclusions, and limitations. My current learning priorities are **Windows/Linux telemetry, SIEM alert triage, detection engineering, and concise incident reporting**.
+I document investigation methods, available evidence, conclusions, and limitations. My learning priorities are **Windows/Linux telemetry, SIEM alert triage, detection engineering, and concise incident reporting**.
 
 ---
 
@@ -75,7 +75,7 @@ I use **Blue Team CTFs** and simulated investigations to practice evidence colle
 <div align="center">
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Entry-Level_SOC_Candidate-000000?style=for-the-badge&logo=security&logoColor=38bdf8" alt="Security Analyst" />
+    <img src="https://img.shields.io/badge/Entry-Level_Cybersecurity_Candidate-000000?style=for-the-badge&logo=security&logoColor=38bdf8" alt="Security Analyst" />
   </p>
 
   <br>
@@ -91,7 +91,7 @@ I use **Blue Team CTFs** and simulated investigations to practice evidence colle
 
 ## 🤝 Let's Connect!
 
-I welcome conversations about SOC investigations, defensive-security labs, and entry-level cybersecurity opportunities. Feel free to reach out if you'd like to connect, share insights, or discuss industry trends.
+I welcome conversations about cybersecurity topics, defensive-security labs, and cloud security opportunities. Feel free to reach out if you'd like to connect, share insights, or discuss industry trends.
   
 🔗 **Connect on LinkedIn:** [Awais Asgher](https://www.linkedin.com/in/awais-asgher/)
 
